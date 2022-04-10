@@ -1,9 +1,9 @@
-# DataScience Example
+# Data Science Example
 Python examples of code used for data analytics or data science
 
 # Description
 
-- Simple Python examples that can serve as basic introductions to things you might do for data scrience applications
+- Simple Python examples that can serve as basic introductions to things you might use in data science applications
 - Jupyter Notebooks showing how to perform these step by step
 
 # Components
